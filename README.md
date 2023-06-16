@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikii
-- 👀 I’m just 16... I know
+- 👀 I’m 18...
 - 💞️ I’m interested in learning how to code... but I’m also a big music lover...
 - 🌱 I’m learning Python and C...(also guitarxD)...Currently I’m working on CS50x 
 
