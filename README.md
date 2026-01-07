@@ -7,7 +7,7 @@
 ### **Recent projects**
 
 - <u>**E-shop**</u>: HTML, CSS, Laravel, Blade, PHP, PostgreSQL (WTECH course)
-- <u>**iddesign.sk**</u>: Website developed for **ID-Design**, PHP, Laravel, PostgreSQL
+- <u>**[id-design.sk](https://www.id-design.sk/)**</u>: Website developed for **ID-Design**, PHP, Laravel, PostgreSQL
 - <u>**IRC Slack-like app**</u>: Vue, Quasar, TypeScript, AdonisJS, SQLite (VPWA course)
 
 ---
