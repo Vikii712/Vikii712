@@ -2,7 +2,7 @@
 ### **3rd-year Computer Science student at FIIT STU**
 
 **Currently working on my Bachelor’s thesis**:  
-*System for digital content accessibility for people with disabilities*
+*System for digital content accessible for people with disabilities*
 
 ### **Recent projects**
 
