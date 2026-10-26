@@ -1,7 +1,7 @@
 # 𓀉 About Me:
-### **3rd-year Computer Science student at FIIT STU**
+### **4rd-year Computer Science student at FIIT STU (1st year of Ing.)**
 
-**Currently working on my Bachelor’s thesis**:  
+**Bachelor’s thesis**:  
 *System for digital content accessible for people with disabilities*
 
 ### **Recent projects**
